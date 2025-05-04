@@ -1,0 +1,30 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.text-color{
+    color: azure;
+}
+
+body{
+    background-size: cover;
+    height: 120vh;
+    width: 100%;
+}
+
+.bg-main{
+    height: 120vh;
+
+
+}
+span{
+    font-size: 1rem;
+    color: red;
+}
